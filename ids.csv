@@ -1,0 +1,6 @@
+no;zona;radius
+1;risiko_ekstrim;0-100
+2;risiko_tinggi;100-300
+3;risiko_sedang;300-3000
+4;risiko_rendah;3000-10000
+5;aman_huni;<10000
